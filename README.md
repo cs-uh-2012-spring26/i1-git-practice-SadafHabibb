@@ -4,3 +4,5 @@ A simple project to practice a few git/github workflows.  Update this file as in
 
 **Student Name:** Sadaf Habib
 
+### Forking Workflow
+- Merged PR: https://github.com/cs-uh-2012-spring26/i1-git-practice-jdcastano06/pull/2
