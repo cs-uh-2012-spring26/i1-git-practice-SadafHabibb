@@ -12,3 +12,6 @@ The principles around configuration management (storing config in environment va
 
 ## Proof Reading
 Article checked for typos
+
+## Comment by Umair Hafeez:
+This is a classic read! I find the 12-factor methodology really interesting because it highlights how software engineering has shifted from just "writing code" to "designing for the cloud." 
