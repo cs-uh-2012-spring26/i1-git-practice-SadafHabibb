@@ -9,6 +9,9 @@ The Twelve-Factor App methodology provides a comprehensive framework for buildin
 
 The principles around configuration management (storing config in environment variables) and treating backing services as attached resources are especially practical. These guidelines help create applications that are portable across different environments and easier to maintain over time.
 
+## My Comment
+> **Juan Diego Castano:** I like how it explains the 12-factor rules for SaaS apps. The focus on portability and scaling sounds useful and easy to understand.
+
 
 ## Proof Reading
 Article checked for typos
